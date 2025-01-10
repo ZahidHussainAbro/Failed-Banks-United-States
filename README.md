@@ -20,7 +20,7 @@ Shows comparison of bars banks by state.
 📉 𝗖𝗼𝗹𝘂𝗺𝗻 𝗖𝗵𝗮𝗿𝘁: Total Banks by Months comparison
 Shows total banks over the month.
 
-🗾 𝗧𝗿𝗲𝗲𝗺𝗮𝗽: Total Banks by Year and Count 
+🗾 𝗛𝗲𝗮𝘁𝗺𝗮𝗽: Total Banks by Year and Count 
 Shows portion of banks total by year.
 
 🗺 𝗠𝗮𝗽: Total Banks by States
